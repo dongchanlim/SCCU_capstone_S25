@@ -8,7 +8,7 @@ However, SCCU is looking for a more cost-efficient strategy to decide new thresh
 
 ## Solution to the business problem
 
-This analysis will focus on building the classification model to predict who is going to be a growth customer segment (those who were below the threshold from 2023 but becoming above the threshold on following year (2024)) based on the 2023 historical data only, and which volume threshold would be more optimal compared to original (400) threshold.
+This analysis will focus on building the classification model to predict which customer is going to be a growth customer segment (those who were below the threshold from 2023 but becoming above the threshold on following year (2024)) based on the 2023 historical data only, and determine which volume threshold would be more optimal compared to original (400) threshold.
 
 Our analysis will meet to these missions:
 
