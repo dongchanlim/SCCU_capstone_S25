@@ -1,12 +1,22 @@
-# SCCU_S25_CAPSTONE
+# SCCU_S25_CAPSTONE: Optimizing Logistics with Data-Driven Threshold Strategy
 
 ## Business problem & Project objective
+
+Swire Coca-Cola USA (SCCU) currently uses a 400-gallon annual volume threshold to determine whether customers should be assigned to:
+
+- DDR (Direct Delivery Route)
+- ARTM (Alternate Route to Market)
+
+However, SCCU seeks a more cost-efficient and data-driven threshold that improves logistics efficiency and revenue performance
 
 SCCU(Swire Coca-Cola United States) tries to optimize logistics by transitioning customers selling below a specific annual volume to an Alternate Route to Market (ARTM). There is an annual 400 gallons volume threshold used to distinguish the customers between DDR (direct delivery route) and ARTM.
 
 However, SCCU is looking for a more cost-efficient strategy to decide new threshold for optimizing logistics which is driving better operational efficiency and more revenues.
 
 ## Solution to the business problem
+
+Predicts “growth customers” – customers who were below the 400-gallon threshold in 2023 but surpassed it in 2024.
+Recommends an optimized volume threshold to improve decision-making for ARTM vs. DDR classification.
 
 This analysis will focus on building the classification model to predict which customer is going to be a growth customer segment (those who were below the threshold from 2023 but becoming above the threshold on following year (2024)) based on the 2023 historical data only, and determine which volume threshold would be more optimal compared to original (400) threshold.
 
@@ -25,6 +35,14 @@ Our analysis will meet to these missions:
 6. Training and evaluating the performance between the models and select the best model
 7. Generating the comparison metrics between new threshold and old threshold
 
+✅ Set up machine learning pipeline and data preprocessing workflow
+✅ Loaded and profiled the 2023 customer transaction dataset
+✅ Measured benchmark performance using the existing 400-gallon threshold
+✅ Built and fine-tuned classification models to predict growth customers
+✅ Engineered and selected relevant features
+✅ Evaluated models and selected the best-performing one
+✅ Compared operational performance between the existing and optimized thresholds
+
 ## The business value of the solution
 
 - Cost Efficiency: Reducing delivery cost and optimizing logistical transition directly lowers operational costs, improving profit margin
@@ -36,6 +54,10 @@ Our analysis will meet to these missions:
 
 These are the list of main challenges that our team had met while working on the project.
 
+- Aligning different stakeholder perspectives on the business problem
+- Ensuring data quality consistency across the ML pipeline
+- Translating analytical insights into business value that operations teams can act on
+
 - Sync the different perspective about the problem itself and enabling teams be on the same page
 - Consolidating and confirming the data quality across the steps of pipeline
 - Connecting the analytical result with actual business values
@@ -44,4 +66,7 @@ These are the list of main challenges that our team had met while working on the
 
 Out of capstone project (S25), I've learned the valuable lessons below.
 - SCM (Supply Chain Management) domain can be operated and optimized systematically based on data driven decision making.
-- However, it is very significant to comprehend and pre-define the business problem and approach the defined problem with systematical process. 
+- However, it is very significant to comprehend and pre-define the business problem and approach the defined problem with systematical process.
+
+- SCM decisions can be significantly improved using predictive analytics and data modeling
+- A successful data project starts with a clear understanding of the business problem and follows a systematic, collaborative approach
