@@ -1,5 +1,5 @@
 # SCCU_S25_CAPSTONE
-Optimizing Logistics with Data-Driven Threshold Strategy
+This capstone project is for optimizing Logistics with Data-Driven Threshold Strategy.
 
 
 ## Business problem & Project objective
