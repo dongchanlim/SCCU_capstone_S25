@@ -1,4 +1,4 @@
-# SCCU_capstone_S25
+# SCCU_S25_CAPSTONE
 
 ## Business problem & Project objective
 
