@@ -8,6 +8,11 @@ However, SCCU is looking for a more cost-efficient strategy to decide new thresh
 
 ## Solution to the business problem
 
+Our analysis will meet to these missions:
+
+- Identifying which customers should be included in ARTM versus DDR.
+- Determining the optimal volume threshold to improve logistical efficiency.
+
 ## My contribution to the project
 
 ## The business value of the solution
