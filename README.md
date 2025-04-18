@@ -27,6 +27,19 @@ Our analysis will meet to these missions:
 
 ## The business value of the solution
 
+- Cost Efficiency: Reducing delivery cost and optimizing logistical transition directly lowers operational costs, improving profit margin
+- Operational streamlining: Minimizes travel time, enhances driver productivity, and ensures timely deliveries, boosting overall logistics performance
+- Strategic Decision-Making: Insights from fuel usage and route data enable better inventory management, fleet optimization, and proactive resource allocation
+- Competitive Advantage: Lower costs and improved service reliability position the business ahead of competitors in the market
+
 ## Difficulties that encountered
 
+These are the list of main challenges that our team had met while working on the project.
+
+- Sync the different perspective about the problem itself and enabling teams be on the same page
+- Consolidating and confirming the data quality across the steps of pipeline
+- Connecting the analytical result with actual business values
+
 ## What learned in the project
+
+SCM (Supply Chain Management) can be data driven based 
