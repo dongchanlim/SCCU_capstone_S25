@@ -2,17 +2,14 @@
 
 ## Business problem & Project objective
 
-Swire Coca-Cola USA (SCCU) currently uses a 400-gallon annual volume threshold to determine whether customers should be assigned to:
+SCCU(Swire Coca-Cola United States) tries to optimize logistics by transitioning customers selling below a specific annual volume to an Alternate Route to Market (ARTM).
+SCCU currently uses a 400-gallon annual volume threshold to determine whether customers should be assigned to:
 
 
 - DDR (Direct Delivery Route)
 - ARTM (Alternate Route to Market)
 
-However, SCCU seeks a more cost-efficient and data-driven threshold that improves logistics efficiency and revenue performance
-
-SCCU(Swire Coca-Cola United States) tries to optimize logistics by transitioning customers selling below a specific annual volume to an Alternate Route to Market (ARTM). There is an annual 400 gallons volume threshold used to distinguish the customers between DDR (direct delivery route) and ARTM.
-
-However, SCCU is looking for a more cost-efficient strategy to decide new threshold for optimizing logistics which is driving better operational efficiency and more revenues.
+However, SCCU seeks a more cost-efficient and data-driven threshold that improves logistics efficiency and revenue performance.
 
 ## Solution to the business problem
 
