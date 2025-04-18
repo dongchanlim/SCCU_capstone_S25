@@ -13,15 +13,10 @@ However, SCCU seeks a more cost-efficient and data-driven threshold that improve
 
 ## Solution to the business problem
 
-Predicts “growth customers” – customers who were below the 400-gallon threshold in 2023 but surpassed it in 2024.
-Recommends an optimized volume threshold to improve decision-making for ARTM vs. DDR classification.
-
 This analysis will focus on building the classification model to predict which customer is going to be a growth customer segment (those who were below the threshold from 2023 but becoming above the threshold on following year (2024)) based on the 2023 historical data only, and determine which volume threshold would be more optimal compared to original (400) threshold.
 
-Our analysis will meet to these missions:
-
-- Identifying which customers should be included in ARTM versus DDR.
-- Determining the optimal volume threshold to improve logistical efficiency.
+- Predicts “growth potential customers” who were below the 400-gallon threshold in 2023 but surpassed it in 2024.
+- Recommends an optimized volume threshold to improve decision-making for ARTM vs. DDR classification.
 
 ## My contribution to the project
 
