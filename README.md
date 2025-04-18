@@ -42,4 +42,6 @@ These are the list of main challenges that our team had met while working on the
 
 ## What learned in the project
 
-SCM (Supply Chain Management) can be data driven based 
+Out of capstone project (S25), I've learned the valuable lessons in that
+SCM (Supply Chain Management) domain can be operated and optimized systematically based on data driven decision making.
+However, it is very significant to define the business problem specifically and approach the defined problem with 
