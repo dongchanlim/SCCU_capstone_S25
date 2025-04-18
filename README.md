@@ -51,3 +51,9 @@ Out of S25 capstone project, I've learned the valuable lessons below.
 
 - SCM decisions can be significantly improved using predictive analytics and data modeling
 - A successful data project starts with a clear understanding of the business problem and follows a systematic, collaborative approach
+
+## Tools/Skill that used in the project
+
+- Python Pandas, Sklearn, Pickle, Seaborn
+- R tidyverse, ggplot
+- Deepnote.com, Colab, Canva, and Microsoft Suites
