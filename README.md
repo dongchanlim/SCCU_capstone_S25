@@ -20,46 +20,32 @@ This analysis will focus on building the classification model to predict which c
 
 ## My contribution to the project
 
-1. Setting up the ML pipeline classes
+1. Set up machine learning pipeline and data preprocessing workflow
 2. Loading the dataset and checkout data profile
-3. Identifying the benchmark performance of original threshold
-4. Genenrating the classification model to predict the growth customer group
-5. Selecting and engineering the variables used in the modeling
-6. Training and evaluating the performance between the models and select the best model
-7. Generating the comparison metrics between new threshold and old threshold
-
-✅ Set up machine learning pipeline and data preprocessing workflow
-✅ Loaded and profiled the 2023 customer transaction dataset
-✅ Measured benchmark performance using the existing 400-gallon threshold
-✅ Built and fine-tuned classification models to predict growth customers
-✅ Engineered and selected relevant features
-✅ Evaluated models and selected the best-performing one
-✅ Compared operational performance between the existing and optimized thresholds
+3. Measured benchmark performance using the existing 400-gallon threshold
+4. Built and fine-tuned classification models to predict growth customers
+5. Engineered and selected relevant variables & features
+6. Evaluated models and selected the best-performing one
+7. Compared operational performance between the existing and optimized thresholds
 
 ## The business value of the solution
 
-- Cost Efficiency: Reducing delivery cost and optimizing logistical transition directly lowers operational costs, improving profit margin
-- Operational streamlining: Minimizes travel time, enhances driver productivity, and ensures timely deliveries, boosting overall logistics performance
-- Strategic Decision-Making: Insights from fuel usage and route data enable better inventory management, fleet optimization, and proactive resource allocation
-- Competitive Advantage: Lower costs and improved service reliability position the business ahead of competitors in the market
+- Cost Efficiency: Reduced delivery costs through optimized route assignments
+- Operational streamlining: Better driver utilization, minimized travel time, and timely deliveries
+- Strategic Decision-Making: 	Insights support inventory planning, fleet usage, and resource allocation
+- Competitive Advantage: 	Streamlined operations lead to better service and market advantage
 
 ## Difficulties that encountered
 
 These are the list of main challenges that our team had met while working on the project.
 
-- Aligning different stakeholder perspectives on the business problem
+- Aligning different analytical perspectives on the identical business problem
 - Ensuring data quality consistency across the ML pipeline
-- Translating analytical insights into business value that operations teams can act on
-
-- Sync the different perspective about the problem itself and enabling teams be on the same page
-- Consolidating and confirming the data quality across the steps of pipeline
-- Connecting the analytical result with actual business values
+- Translating analytical insights into business value that operations teams can act upon
 
 ## What learned in the project
 
-Out of capstone project (S25), I've learned the valuable lessons below.
-- SCM (Supply Chain Management) domain can be operated and optimized systematically based on data driven decision making.
-- However, it is very significant to comprehend and pre-define the business problem and approach the defined problem with systematical process.
+Out of S25 capstone project, I've learned the valuable lessons below.
 
 - SCM decisions can be significantly improved using predictive analytics and data modeling
 - A successful data project starts with a clear understanding of the business problem and follows a systematic, collaborative approach
