@@ -17,6 +17,14 @@ Our analysis will meet to these missions:
 
 ## My contribution to the project
 
+1. Setting up the ML pipeline classes
+2. Loading the dataset and checkout data profile
+3. Identifying the benchmark performance of original threshold
+4. Genenrating the classification model to predict the growth customer group
+5. Selecting and engineering the variables used in the modeling
+6. Training and evaluating the performance between the models and select the best model
+7. Generating the comparison metrics between new threshold and old threshold
+
 ## The business value of the solution
 
 ## Difficulties that encountered
